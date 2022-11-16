@@ -1,0 +1,29 @@
+{
+  "name": "trip-to-mars",
+  "version": "1.0.0",
+  "description": "tutorial-demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hello-mars": "gist:58e5dfc62489a5a288de",
+    "lodash": "^4.17.15",
+    "underscore": "1.8.x"
+  },
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "author": "Joe Eames",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash756/nodejs-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yash756/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/yash756/nodejs-demo#readme"
+}
